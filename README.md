@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozandurgut
 - 👀 I’m interested in software development and CyberSecurity
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning C# and Java
 
 
 <!---
